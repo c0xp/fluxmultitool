@@ -2,9 +2,8 @@ Hi 👋, I'm Anzoo
 A typical python dev
 🔭 I’m currently working on Flux
 
-👨‍💻 All of my projects are available at https://github.com/Anzoodev
+👨‍💻 All of my projects are available at (https://github.com/c0xp)
 
-📫 How to reach me anzoo7373@gmail.com
 
 Connect with me:
 
