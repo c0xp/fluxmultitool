@@ -1,4 +1,4 @@
-Hi 👋, I'm Anzoo
+Hi 👋, I'm c0xp
 A typical python dev
 🔭 I’m currently working on Flux
 
